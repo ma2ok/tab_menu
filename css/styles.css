@@ -3,7 +3,7 @@
 }
 .container{
   margin: 30px auto;
-  widows: 500px;
+  width: 500px;
 }
 
 .menu{
@@ -17,7 +17,7 @@
   display: inline-block;
   width: 100px;
   text-align: center;
-  padding: 8px;
+  padding: 8px 0;
   color: #333;
   text-decoration: none;
 }
